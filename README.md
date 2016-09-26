@@ -1,2 +1,12 @@
 # dummy-api
-dummy api hue hue hue 
+
+## Setup
+
+`npm install`
+
+`npm start`
+
+
+## endpoint
+
+`/api/dummy`  list
